@@ -1,0 +1,33 @@
+﻿@using Entities
+@model Invoice
+<h3>Party Name: @Model.Party.PartyName</h3>
+<h3>Date : @Model.InvoiceDate?.ToString("yyyy-MM-dd")</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Product Name</td>
+            <td>Quantity</td>
+            <td>Subtotal</td>
+            @* <td>Actions</td> *@
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (InvoiceWiseProduct invoiceWiseProduct in Model.InvoiceWiseProducts)
+        {
+            <tr>
+                <td>@invoiceWiseProduct.Product.ProductName</td>
+                <td>@invoiceWiseProduct.Quantity</td>
+                <td>@invoiceWiseProduct.Subtotal</td>
+                @* <td>
+            <a class="btn btn-outline-danger" asp-controller="InvoiceWiseProduct" asp-action="Delete" asp-route-invoiceWiseProductID="@invoiceWiseProduct.InvoiceWiseProductID">Delete</a>
+            <a class="btn btn-outline-success" asp-controller="InvoiceWiseProduct" asp-action="Edit" asp-route-invoiceWiseProductID="@invoiceWiseProduct.InvoiceWiseProductID">Edit</a>
+            </td> *@
+            </tr>
+        }
+        <tr>
+            <td colspan="2"> Total price</td>
+            <td colspan="1"> @Model.TotalPrice</td>
+        <tr />
+    </tbody>
+</table>

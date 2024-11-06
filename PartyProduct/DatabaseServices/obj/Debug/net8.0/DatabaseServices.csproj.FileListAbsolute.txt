@@ -1,0 +1,17 @@
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\DatabaseServices.deps.json
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\DatabaseServices.dll
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\DatabaseServices.pdb
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\Entities.dll
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\ServiceContracts.dll
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\ServiceContracts.pdb
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\bin\Debug\net8.0\Entities.pdb
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.csproj.AssemblyReference.cache
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.AssemblyInfoInputs.cache
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.AssemblyInfo.cs
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.csproj.CoreCompileInputs.cache
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\Database.3DB68673.Up2Date
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.dll
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\refint\DatabaseServices.dll
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\DatabaseServices.pdb
+D:\Devanshu\MVC Task\PartyProduct\DatabaseServices\obj\Debug\net8.0\ref\DatabaseServices.dll

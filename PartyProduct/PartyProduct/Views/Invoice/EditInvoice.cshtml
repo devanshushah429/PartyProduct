@@ -1,0 +1,60 @@
+﻿@using Entities
+@model Invoice
+
+<form asp-controller="Invoice" asp-action="EditInvoice" method="post">
+    <input asp-for="InvoiceID" readonly type="hidden" />
+    <input type="hidden" asp-for="PartyID" />
+
+    <div class="form-group">
+        <label asp-for="InvoiceDate" class="control-label"></label>
+        <input type="date" asp-for="InvoiceDate" class="form-control" />
+        <span asp-validation-for="InvoiceDate" class="text-danger"></span>
+    </div>
+
+    <div class="m-2">
+    <h4>Products</h4>
+    <a asp-controller="InvoiceWiseProduct" asp-action="AddInvoiceWiseProduct" asp-route-invoiceID="@Model.InvoiceID" asp-route-partyID="@Model.PartyID" class="btn btn-primary mb-2">Add Product</a>
+    <table class="table table-bordered" id="productTable">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.InvoiceWiseProducts != null && Model.InvoiceWiseProducts.Count > 0)
+            {
+                for (int i = 0; i < Model.InvoiceWiseProducts.Count; i++)
+                {
+                    InvoiceWiseProduct invoiceWiseProduct = Model.InvoiceWiseProducts[i];
+                    <tr class="product-item">
+                        <td>@invoiceWiseProduct.Product.ProductName</td>
+                        <td>
+                            @invoiceWiseProduct.Quantity
+                            @* <input type="hidden" name="InvoiceWiseProducts[@i].ProductID" value="@invoiceWiseProduct.ProductID" /> *@
+                            @* <input type="number" name="InvoiceWiseProducts[@i].Quantity" value="@invoiceWiseProduct.Quantity" />/ *@
+
+                        </td>
+                        <td>
+                            <a asp-controller="InvoiceWiseProduct" asp-action="Delete" asp-route-invoiceWiseProductID="@invoiceWiseProduct.InvoiceWiseProductID" class="btn btn-outline-danger">Delete</a>
+                            <a asp-controller="InvoiceWiseProduct" asp-action="Edit" asp-route-invoiceWiseProductID="@invoiceWiseProduct.InvoiceWiseProductID" class="btn btn-outline-success">Edit</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr><td colspan="4">No products available.</td></tr>
+            }
+        </tbody>
+    </table>
+    </div>
+
+    <h5>Total Price: @Model.TotalPrice</h5>
+    <br />
+    <input type="checkbox" asp-for="IsPaid" /> Is Paid
+    <br />
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

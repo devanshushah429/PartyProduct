@@ -1,0 +1,15 @@
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\bin\Debug\net8.0\Entities.dll
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+D:\Devanshu\MVC Task\PartyProduct\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
