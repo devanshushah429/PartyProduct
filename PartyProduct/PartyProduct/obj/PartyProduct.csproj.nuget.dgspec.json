@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct.csproj": {}
+    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\PartyProduct.csproj": {}
   },
   "projects": {
-    "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj": {
+    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj",
+        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj",
         "projectName": "DatabaseServices",
-        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj",
+        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\obj\\",
+        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj": {
+    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\obj\\",
+        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,6 +111,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -146,14 +150,14 @@
         }
       }
     },
-    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct.csproj": {
+    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\PartyProduct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct.csproj",
+        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\PartyProduct.csproj",
         "projectName": "PartyProduct",
-        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct.csproj",
+        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\PartyProduct.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\obj\\",
+        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,14 +175,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj": {
-                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj"
+              "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj": {
+                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\DatabaseServices\\DatabaseServices.csproj"
               },
-              "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj"
+              "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj"
               },
-              "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
@@ -198,6 +202,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -238,14 +246,14 @@
         }
       }
     },
-    "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
+    "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\ServiceContracts\\obj\\",
+        "outputPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -263,8 +271,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Entities.csproj"
+              "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Entities.csproj"
               }
             }
           }

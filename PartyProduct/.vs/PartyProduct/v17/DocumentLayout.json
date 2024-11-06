@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\",
+  "WorkspaceRootPath": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\views\\party\\partywiseinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\views\\party\\partywiseinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\partyproduct\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\views\\invoice\\addinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\views\\invoice\\addinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|solutionrelative:entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|d:\\devanshu\\mvc task\\partyproduct\\entities\\invoicewiseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|solutionrelative:entities\\invoicewiseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|d:\\devanshu\\mvc task\\partyproduct\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\partyproduct\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\partyproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\partyproduct\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2453F-4DDE-4536-A7C7-EEEA49DA2A3D}|PartyProduct\\PartyProduct.csproj|solutionrelative:partyproduct\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|d:\\devanshu\\mvc task\\partyproduct\\partyproduct\\entities\\migrations\\20241106063310_add identity tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA49BAD-17AC-4D4D-8432-971A79448A83}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20241106063310_add identity tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +43,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Invoice\\Index.cshtml",
-              "RelativeDocumentMoniker": "PartyProduct\\Views\\Invoice\\Index.cshtml",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Invoice\\Index.cshtml",
-              "RelativeToolTip": "PartyProduct\\Views\\Invoice\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAACjAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartyProduct\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartyProduct\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T04:44:50.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PartyController.cs",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Controllers\\PartyController.cs",
-              "RelativeDocumentMoniker": "PartyProduct\\Controllers\\PartyController.cs",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Controllers\\PartyController.cs",
-              "RelativeToolTip": "PartyProduct\\Controllers\\PartyController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwJwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:38:55.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:05:52.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Invoice.cs",
-              "RelativeDocumentMoniker": "Entities\\Invoice.cs",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\Invoice.cs",
-              "RelativeToolTip": "Entities\\Invoice.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:33:25.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InvoiceWiseProduct.cs",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\InvoiceWiseProduct.cs",
-              "RelativeDocumentMoniker": "Entities\\InvoiceWiseProduct.cs",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\Entities\\InvoiceWiseProduct.cs",
-              "RelativeToolTip": "Entities\\InvoiceWiseProduct.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:32:53.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddInvoice.cshtml",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Invoice\\AddInvoice.cshtml",
-              "RelativeDocumentMoniker": "PartyProduct\\Views\\Invoice\\AddInvoice.cshtml",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Invoice\\AddInvoice.cshtml",
-              "RelativeToolTip": "PartyProduct\\Views\\Invoice\\AddInvoice.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PartyProduct\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PartyProduct\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T04:31:24.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:00:16.451Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "InvoiceController.cs",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Controllers\\InvoiceController.cs",
-              "RelativeDocumentMoniker": "PartyProduct\\Controllers\\InvoiceController.cs",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Controllers\\InvoiceController.cs",
-              "RelativeToolTip": "PartyProduct\\Controllers\\InvoiceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAIAAAAAAAAAA==",
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PartyProduct\\Models\\LoginDTO.cs",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "PartyProduct\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:29:16.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:35:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:33:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationRole.cs",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\ApplicationRole.cs",
+              "RelativeToolTip": "Entities\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:33:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241106063310_Add Identity tables.cs",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Migrations\\20241106063310_Add Identity tables.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20241106063310_Add Identity tables.cs",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Entities\\Migrations\\20241106063310_Add Identity tables.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20241106063310_Add Identity tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:33:10.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PartyWiseInvoice.cshtml",
-              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Party\\PartyWiseInvoice.cshtml",
-              "RelativeDocumentMoniker": "PartyProduct\\Views\\Party\\PartyWiseInvoice.cshtml",
-              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\Views\\Party\\PartyWiseInvoice.cshtml",
-              "RelativeToolTip": "PartyProduct\\Views\\Party\\PartyWiseInvoice.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T04:28:55.882Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PartyProduct\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Devanshu\\MVC Task\\PartyProduct\\PartyProduct\\PartyProduct\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PartyProduct\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:22:03.533Z",
               "EditorCaption": ""
             }
           ]
